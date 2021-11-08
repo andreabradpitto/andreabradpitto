@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.12
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.MY_PROFILE_README_METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: andreabradpitto
@@ -36,7 +36,6 @@ jobs:
           #plugin_notable_filter: stars:>100
           #plugin_notable_repositories: yes
           plugin_repositories: yes
-          plugin_repositories_list: nixos/nixpkgs, supersandro2000/docker-images
           #plugin_topics: yes
           #plugin_topics_mode: mastered
           #plugin_topics_limit: 20
