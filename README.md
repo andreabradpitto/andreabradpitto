@@ -1,4 +1,4 @@
-### Hello world! 👋
+<h3 align="center">Hello world! 👋</h3>
 
 <!--
 **andreabradpitto/andreabradpitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤖 I am currently a Robotics Engineering student in Genoa, Italy.
-- 🏁 I am about to be looking for a job!
+<p align="center">🤖 I am currently a Robotics Engineering student in Genoa, Italy.</p>
+<p align="center">🏁 I am about to be looking for a job!</p>
 
 <p align="center">
   <a href="https://github.com/andreabradpitto/">
