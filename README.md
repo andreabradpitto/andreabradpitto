@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :telescope: I am currently a Robotics Engineering student in Genoa, Italy.
-- :thinking: I am about to be looking for a job!
+- 🤖 I am currently a Robotics Engineering student in Genoa, Italy.
+- 🏁 I am about to be looking for a job!
 
 <p align="center">
   <a href="https://github.com/andreabradpitto/">
