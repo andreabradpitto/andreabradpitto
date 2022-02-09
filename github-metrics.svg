@@ -208,7 +208,7 @@
     margin: 0 4px;
     color: inherit;
   }
-  .contribution .commits-icon {
+  .contribution .icon {
     fill: currentColor;
     width: 10px;
     height: 10px;
@@ -857,7 +857,8 @@
 
 /* Star lists */
   .starlist {
-    margin-left: 28px;
+    padding-left: 28px;
+    width: 460px;
   }
   .starlist &gt; .description, .starlist &gt; .count {
     margin-left: 32px;
@@ -873,11 +874,18 @@
   .starlist .repository {
     margin: 6px 0 0;
   }
-  .starlist .repository .description {
+  .starlist .repository .description, .starlist .repository .infos {
     font-size: 11px;
   }
   .starlist .repository .name {
     font-size: 14px;
+  }
+  .starlist .languages {
+    margin-top: 6px;
+    padding-left: 13px;
+  }
+  .starlist .languages svg.bar {
+    margin-left: 18px;
   }
 
 /* Anilist */
