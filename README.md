@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">🤖 I am currently a Robotics Engineering student in Genoa, Italy.</p>
+<p align="center">🤖 I am a Robotics Engineer living in Genoa, Italy.</p>
 <p align="center">🏁 I am about to be looking for a job!</p>
 
 <p align="center">
