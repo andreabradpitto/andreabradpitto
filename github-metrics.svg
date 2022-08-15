@@ -144,6 +144,10 @@
   .no-margin-top {
     margin-top: 0px;
   }
+  .margin-lr-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 /* User avatar */
   .avatar {
@@ -852,6 +856,47 @@
     fill: currentColor;
   }
 
+/* Diff stats */
+  .diff-handle {
+    color: #58a6ff;
+    max-width: 200px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .large .diff-handle {
+    max-width: 400px;
+  }
+  .diff-box {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    margin-left: 1px;
+    background-color: rgba(110, 118, 129, 0.4);
+    border: 1px solid rgba(246, 240, 251, 0.1);
+  }
+  .diff-box:first-child {
+    margin-left: 9px;
+  }
+  .diff-box.added {
+    background-color: rgb(63, 185, 80);
+  }
+  .diff-box.deleted {
+    background-color: rgb(218, 54, 51);
+  }
+  .diff-stats {
+    margin-left: 4px;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+    font-weight: bold;
+    font-size: 12px;
+    white-space: pre;
+  }
+  .added {
+    color: rgb(63, 185, 80);
+  }
+  .deleted {
+    color: rgb(218, 54, 51);
+  }
+
 /* People */
   .people {
     padding: 0 10px;
@@ -875,6 +920,17 @@
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
+  }
+  .project .items, .project-items {
+    padding-left: 11px;
+  }
+  .project .items .text, .project-items .text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 426px;
+  }
+  .large .project .items .text, .large .project-items .text {
+    width: 916px;
   }
 
 /* Star lists */
@@ -1677,37 +1733,9 @@
 
       
         
-
-      
-        
-      
-        
       
         
 
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-
-      
-        
-      
-        
-
-      
-        
-
-      
-        
-      
-        
       
         
       
@@ -1731,15 +1759,6 @@
       
         
 
-
-
-      
-        
-      
-        
-      
-        
-
       
         
 
@@ -1747,7 +1766,35 @@
         
       
         
+      
+        
+      
+        
+      
+        
 
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+
+      
+        
+      
+        
+
+
+
+      
+        
+      
+        
       
         
 
@@ -1756,6 +1803,18 @@
 
       
         
+      
+        
+
+      
+        
+
+      
+        
+
+      
+        
+
       
         
       
