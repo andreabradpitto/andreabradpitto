@@ -1,4 +1,4 @@
-<h3 align="center">Hello world! 👋</h3>
+<h1 align="center">Hello world! 👋</h1>
 
 <!--
 **andreabradpitto/andreabradpitto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">🤖 I am a Robotics Engineer living in Genoa, Italy.</p>
-<p align="center">🏁 I am about to be looking for a job!</p>
+<p align="center">🏁 I am currently looking for a job!</p>
 
 <p align="center">
   <a href="https://github.com/andreabradpitto/">
@@ -28,4 +28,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/andreabradpitto/">
     <img src="https://raw.githubusercontent.com/andreabradpitto/andreabradpitto/master/github-metrics.svg" />
   </a>
+</p>
+
+<h2 align="center">Questionably funny joke of the day</h2>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card"/>
 </p>
