@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2 align="center">Questionably funny joke of the day</h2>
+<h2 align="center">(Questionably) Funny joke of the day</h2>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=ayu-mirage" alt="Jokes Card"/>
 </p>
