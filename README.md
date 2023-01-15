@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">🤖 I am a Robotics Engineer living in Genoa, Italy.</p>
-<p align="center">🏁 I am currently looking for a job!</p>
+<p align="center">🏁 I am currently working full-time as Software Developer</p>
 
 <p align="center">
   <a href="https://github.com/andreabradpitto/">
