@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/andreabradpitto/">
-    <img src="https://github-readme-stats.vercel.app/api?username=andreabradpitto&include_all_commits=true&show_icons=true&bg_color=232627&text_color=ffffd7&icon_color=cccc00&title_color=ffff99" />
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=andreabradpitto&include_all_commits=true&show_icons=true&bg_color=232627&text_color=ffffd7&icon_color=cccc00&title_color=ffff99" />
   </a>
 </p>
 
